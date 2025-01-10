@@ -1,0 +1,483 @@
+﻿Id,key,text
+1,English,English
+2,Chinese,中文
+3,Russian,русский язык
+4,French,Français
+5,German,Deutsch
+6,Portuguese,Português
+7,Spanish,Español
+8,Japanese,日本語
+9,Italian,Italiano
+10,Continue,Continuer
+11,NewGame,Nouveau jeu
+12,Setting,Réglage
+13,Exit,Quitter
+14,FullScreen,Plein écran
+15,Windows,Fenêtre
+16,Fullscreen,Plein écran
+17,Resolution,Résolution
+18,Language,Langue
+19,Sound,Son
+20,Music,Musique
+21,SelectStageTip,Sélectionner le donjon
+22,Warrior,Guerrier
+23,Blacksmith,Forgeron
+24,Priest,Chef cuisinier
+25,Magician,Magicien
+26,Scholar,Érudit
+27,Alchemist,Alchimiste
+28,HeavyAttack,Attaque lourde
+29,Hack,Hack
+30,Repair,Réparation
+31,Substitution,Substitution
+32,Accomplishment,Accomplissement
+33,Grow,Croissance
+34,Transposition,Transposition
+35,MagicShuffle,Mélanger
+36,Research,Recherche
+37,Bargaining,Négociation
+38,Reconstruction,Reconstruction
+39,Alchemy,Alchimie
+40,Deterrence,Dissuasion
+41,FlashKilling,Tuerie éclair
+42,Treasure,Trésor
+43,Profit,Profit
+44,Strengthen,Renforcer
+45,SteelPlate,Plaque d'acier
+46,Selected,Sélectionné
+47,Brewing,Brassage
+48,LightningStrike,Coup de foudre
+49,EatSoul,Manger l'âme
+50,Regenerate,Régénérer
+51,Patch,Patch
+52,StealArmor,Voler une armure
+53,StealingMedicine,Voler des médicaments
+54,Breakthrough,Percée
+55,Sweeping,Balayage
+56,Smoking,Fumer
+57,Confuse,Confusion
+58,Sacrifice,Sacrifice
+59,Casting,Lancer
+60,Recovery,Récupération
+61,Lick,Lèche
+62,Shanggong,Shanggong
+63,Change,Changer
+64,Marching Bed,Bière pression
+65,Crossbow Arrow,Arbalète
+66,Saddle,Épaule
+67,Stimulants,Armure de cœur
+68,Anvil,Enclume
+69,Bellows,Marteau de fer
+70,Knee Pads,Bottes à ressort
+71,Tent,Chaudron de campagne
+72,Catalyzer,Catalyseur
+73,Crystal,Cristal magique
+74,Note,Encre
+75,Stunt Doll,Poupée debout
+76,Biography of the Gods,Histoire des dieux
+77,Deity Statue,Collier de prière
+78,Evolutionism,Théorie scientifique
+79,Alchemy Handbook,Manuel d'alchimie
+80,Conversion Potion,Potion de conversion
+81,Alchemy Formula,Recettes d'alchimie
+82,Blood Bag,Café
+83,Charge,Épée magique
+84,Bandage,Manuel de médecine
+85,Needle and Thread,Kit d'aiguilles et de fils
+86,Rum,Cristal de santé
+87,Quiver,Bâton du soleil ardent
+88,Long Boots,Anneau de récupération
+89,Kettle,Coupe d'eau
+90,Grenade,Arbalète fantôme
+91,Hand Cocoon,Gants en cuir
+92,Pistol,Arc de glace
+93,Spear,Lance à cheval
+94,Horseshoe Iron,Bouclier de charge
+95,Glass,Calice d'or
+96,poison,Poison
+97,Cape,Manteau d'or
+98,Anti Armor,Armure d'épaule du démon
+99,Golden Beetle,Armure d'épaule du bois de printemps
+100,Heart,Cœur de dragon
+101,Animal Skin,Coutellerie en or
+102,Cooking Pot,Marteau enchanté
+103,Order Form,Ordres
+104,Knapsack,Vieille lampe
+105,Cake,Drapeau militaire
+106,Glove,Gants de voleur
+107,Suncha,Épée magique
+108,Nut,Pierres colorées
+109,Beer,Fleur de dragon
+110,Wallet,Sac à argent
+111,Mushroom,Spores
+112,Refined Iron,Météorite en fer
+113,Treasure Chest,Potion d'or
+114,Bomb,Bombe
+115,Newborn,Nouveau-né
+116,Trophy Box,Caisse God Tag
+117,Brainwashing,Lavage de cerveau
+118,Disperse,Dispersion
+119,Obliterate,Effacer
+130,Empty,
+131,DmgNear,Inflige {0} points de dégâts à l'ennemi le plus proche
+132,DmgFar,Inflige {0} points de dégâts à l'ennemi le plus éloigné
+133,DmgAll,Inflige {0} points de dégâts à tous les ennemis
+134,DmgBattle,Inflige {0} points de dégâts à l'ennemi ciblé
+135,DmgRandom,Inflige {0} points de dégâts à un ennemi aléatoire
+136,DmgRandomByOutValue,"Inflige des dégâts à un ennemi aléatoire, en ajoutant {0} points de dégâts pour chaque compétence déclenchée."
+137,DmgRightLine,Inflige {0} points de dégâts aux ennemis de la première rangée
+138,DmgDownLine,Inflige {0} points de dégâts aux ennemis de la colonne you
+139,DmgRightDownLine,Inflige {0} points de dégâts aux ennemis de la ligne ou de la colonne you
+140,DmgRight,Infligez {0} point de dégâts à l'ennemi sur votre droite
+141,DmgDown,Infliger {0} dégât à l'ennemi sur votre côté inférieur
+142,AddAllArmor,Toutes les cartes d'armure +{0}
+143,AddRandomArmor,Carte d'armure aléatoire +{0}
+144,AddAllHP,Toutes les cartes potions +{0}
+145,AddRandomHP,Carte potion aléatoire +{0}
+146,AddAllCoin,Toutes les pièces +{0}
+147,AddRandomCoin,Carte pièce aléatoire +{0}
+148,LowPrice,Réduction du prix des cartes artefact {0}
+149,GetHP,Récupérer {0} santé
+150,GetHPMax,Santé maximale +{0}
+151,GetArmor,Gagner {0} armure
+152,GetCoin,Gagner {0} pièces
+153,GetTrophy,Gagner {0} étiquette de dieu
+154,RecoverAll,Récupérer toute la santé
+155,SwitchHPToArmor,Conserver 1 santé et convertir le reste en armure
+156,SwitchRightDown,Intervertir les positions des cartes sur le côté droit avec le côté inférieur
+157,Shuffle,Perturber les positions des cartes sur les échecs
+158,TransfomRandom,Transformer une carte
+161,StoleAllArmor,Voler {0} armures à chaque carte d'armure
+162,StoleAllHP,Voler {0} santé à chaque carte potion
+163,StoleAllCoin,Voler {0} pièces de chaque carte pièce
+164,StoleAllDmg,Prélever {0} santé sur chaque carte d'ennemi
+165,StoleRightLine,Retirer {0} santé à chaque carte ennemi de votre rangée
+166,StoleDownLine,Retirer {0} santé de chaque carte ennemi dans votre colonne
+167,StoleRoundArmor,Piochez {0} armures dans les cartes d'armures proches
+168,StoleRoundHP,Prendre {0} santé dans les cartes de santé proches.
+169,StoleRoundCoin,Voler {0} pièces des cartes pièces proches
+170,StoleRoundDmg,Prélever {0} santé sur les cartes potion proches
+171,LootRandomArmor,Piller une carte d'armure au hasard
+172,LootRandomHP,Piller une carte de potion au hasard
+173,LootRandomCoin,Récupérer une carte pièce au hasard
+174,FillArtifact,Gagner une poupée debout
+175,DmgPlayer,A subi {0} dégâts
+176,DmgHP,A subi {0} dégâts de santé
+177,DmgArmor,Subit {0} dégâts à l'armure
+178,BleedHP,Subit {0} dégâts aux saignements
+179,CleanBuff,Supprimer tous les buffs
+180,CleanMist,Dissiper le brouillard
+181,KillRandom,Tuer un ennemi au hasard
+182,FloorStart,Au début de chaque étage
+183,CampStart,En entrant dans le campement
+184,GenCard,En générant des cartes
+185,Step,En se déplaçant
+186,StepRight,En se déplaçant vers la droite
+187,StepDown,Lorsqu'on se déplace vers le bas
+188,StepChange,Lors d'un changement de direction
+189,StepContinue,Lorsque l'on se déplace continuellement dans une direction
+190,StepNoArmor,Lorsque l'on se déplace sans armure
+191,StepArmor,Lorsque l'on se déplace avec une armure
+192,StepFullHP,Lorsque l'on se déplace avec une santé complète
+193,EnterBattle,Avant le combat
+194,ExitBattle,Après le combat
+195,ExitBattleFullHP,En pleine santé après le combat
+196,ExitBattleNoArmor,Sans armure après le combat
+197,LootHP,Lors du pillage d'une carte de potion
+198,LootArmor,Lors du pillage de la carte d'armure
+199,LootCoin,Lors du pillage de la carte de pièces
+200,TriggerSkill,Lors du déclenchement d'une compétence
+201,BuyArtifact,Lors de l'achat d'un artefact
+202,BreakArmor,Lorsqu'on brise une armure
+203,DeadHurt,Lorsque l'on subit des dégâts fatals
+204,AbilityErrorFix,La charge recule au lieu de s'effacer lorsque la compétence est mal cadencée.
+205,AbilityEscap,"En cas de dégâts fatals, consommer une poupée debout et s'écarter du chemin"
+206,AbilityAppendage,Réduire les dégâts de combat de {0} lors du port d'un buff
+207,AbilityBelief,"Lors du pillage d'une carte de buff, le buff gagne {0} de persistance supplémentaire"
+208,AbilityAtheism,Récupérer {0} de santé lors du pillage de la carte de buff
+209,AbilityAlchemy,Gagnez la même quantité de santé lorsque vous gagnez de la pièce.
+210,AbilityTransform,La médaille d'aveugle et la pièce permettent de parer aux dégâts si nécessaire.
+211,AbilityChemistry,"Lors du déclenchement d'une compétence, gagner {0} médaille d'aveugle"
+212,BuffRecycle,Recyclage
+213,BuffGoldBody,Corps en or
+214,BuffExoskeleton,Exosquelette
+215,BuffRage,Berserk
+216,BuffGreedy,Cupidité
+217,BuffDispassion,Calme
+218,BuffDescRecycle,La médaille d'aveugle gagnée est convertie en armure
+219,BuffDescGoldBody,Les pièces gagnées sont converties en santé maximale
+220,BuffDescExoskeleton,La santé gagnée est convertie en armure
+221,BuffDescRage,"Les dégâts subis sont divisés par deux, les ressources gagnées sont divisées par deux."
+222,BuffDescGreedy,Les dégâts de combat subis sont doublés et les pièces gagnées sont doublées.
+223,BuffDescDispassion,Pas d'accès aux autres buffs
+224,PropBomb,Bombe
+225,PropNewLife,Nouveau-né
+226,PropTrophyBox,Boîte à étiquettes Dieu
+227,ProPurify,Lavage de cerveau
+228,PropDispel,Dissipation
+229,PropKill,Effacer
+230,BossAddDmg,Augmenter {0} dégâts
+231,BossSubDmg,Diminue {0} dégâts
+232,StageWindPlain,Plaine du vent
+233,StageSunsetJungle,Jungle du crépuscule
+234,StagePrimitiveforests,Forêts primitives
+235,StageScarletMountain,Montagne écarlate
+236,StageMistySwamp,Marais de brume
+237,StageMoonCanyon,Canyon de la lune
+238,StageTheDeath,Le pays de la mort
+239,StageMirageRuins,Ruines miraculeuses
+240,StageLavaPurgatory,Purgatoire de lave
+241,StageEndlessPurgatory,Enfer sans fin
+242,StageFloorIndex,Etage {0}
+243,UIContinue,Continuer
+244,UIStartGame,Nouveau jeu
+245,UITutorial,Tutoriel
+246,UIGallery,Galerie
+247,UISetting,Paramètres
+248,UICredits,Crédits
+249,UIExit,Quitter
+250,UIBack,Retour
+251,UIBattle,Combattre
+252,UIChallenge,Défi
+253,UIVictory,VICTOIRE
+254,UIFail,DÉFAITE
+255,UIReplayWinTip,Rejouer et peut-être gagner
+256,UIReplayTip,Envie de rejouer ?
+257,UIMainMenu,Menu
+258,UIReplay,Rejouer
+259,UIUnlockText,Débloqué {0}
+260,UIUnlockAll,"Toutes les étapes ont été franchies, restez à l'écoute !"
+261,UINormalMode,Jeu classique
+262,UIChallengeMode,L'enfer de l'infini 
+263,UINameHp,Santé
+264,UINameArmor,Armure
+265,UINameCoin,Pièces
+266,UINameTropyh,Médaille d'aveugle
+267,UITipHp,"Veillez à ce qu'elle soit toujours supérieure à 0, sinon vous mourrez."
+268,UITipArmor,Protège votre corps des dégâts
+269,UITipCoin,Principalement utilisé pour acheter des artefacts
+270,UITipTrophy,"Obtenu en tuant des ennemis, utilisé pour apprendre des compétences dans le campement"
+271,GameCamp,Camping
+272,CardNameMist,Brouillard
+273,CardDescMist,La brume bloque la vue. Rapprochez-vous
+274,CardNameRandom,Visions.
+275,CardDescRandom,Vous ne saurez ce qu'il en est réellement que lorsque vous y entrerez.
+276,CardDmgText,inflige {0} de dégâts à vous
+277,CardNameCoin,Pièces
+278,CardDescCoin,Gagne {0} pièces
+279,CardNameArmor,Armure
+280,CardDescArmor,Gagne {0} armures
+281,CardNameHP,Médicament d'or contre les plaies
+282,CardDescHP,Récupérer {0} santé
+283,CardNameStair,Entrée
+284,CardDescStair,Mène plus profondément
+285,CardNameDoor,Porte
+286,CardDescDoor,Les portes sont utilisées pour entrer
+287,CardNameKey,Clé
+288,CardDescKey,Ouvre une porte
+289,CardNameLadder,Falaise
+290,CardDescLadderRight,"Entrez par la gauche, sinon vous risquez d'être blessé."
+291,CardDescLadderDown,"Entrez par le haut, sinon vous risquez de vous blesser."
+292,CardNameCamp,Camping
+293,CardDescCamp,Repose-toi dans le camping
+294,CardNameFinal,La ligne d'arrivée
+295,CardDescFinal,Nous y sommes enfin
+296,CardNameThief,Voleurs lâches
+297,CardDescThief,Toujours en train d'essayer de voler quelque chose à un passant.
+298,CardNameRobber,Voleurs.
+299,CardDescRobber,Payez {0} pièces ou subissez un montant égal de dégâts.
+300,CardNameCollect,Voleur d'étiquette divine
+301,CardDescCollect,Payez {0} god tag ou subissez le même nombre de dégâts.
+302,DeveloperNoWrite,L'auteur a oublié.
+303,DeveloperNoWriteDesc,Allez le lui dire tout de suite.
+304,StageWindPlainKey,Utiliser les buffs pour se renforcer
+305,StageSunsetJungleKey,Les buffs sont une arme à double tranchant. Utilisez-les avec précaution.
+306,StagePrimitiveforestsKey,Les divers accessoires disséminés peuvent être utiles.
+307,StageScarletMountainKey,"Les falaises doivent être abordées dans une certaine direction, sinon vous risquez de tomber et de vous blesser."
+308,StageMistySwampKey,"Les brumes couvrent certaines zones, alors approchez-vous et jetez un coup d'œil."
+309,StageMoonCanyonKey,"Ces voleurs ne font de mal à personne, ils essaient toujours de voler tous ceux qui passent."
+310,StageTheDeathKey,"Si tu n'as pas d'argent, tu vas te faire botter le cul."
+311,StageMirageRuinsKey,Ta lâcheté est mon courage.
+312,StageLavaPurgatoryKey,Les feux de l'enfer brûlent chacun de tes pas.
+313,StageEndlessPurgatoryKey,Fais de ton mieux même s'il n'y a pas de fin en vue.
+314,MonsterName_1_1,Chèvre à cornes noires
+315,MonsterName_1_2,Vache
+316,MonsterName_1_3,Sanglier
+317,MonsterName_1_4,Loup
+318,MonsterName_1_5,Chiens du diable
+319,MonsterName_1_6,Chien courant
+320,MonsterName_1_7,Cerf de Virginie
+321,MonsterName_1_8,Tigre à dents de sabre
+322,MonsterName_1_9,Vajra
+323,MonsterName_1_10,Ours brun
+324,MonsterName_1_11,Mammouth
+325,MonsterName_1_12,Griffon
+326,MonsterName_2_1,Mineur
+327,MonsterName_2_2,Squelette kobold
+328,MonsterName_2_3,Archer kobold
+329,MonsterName_2_4,Voleur
+330,MonsterName_2_5,Mage Kobold
+331,MonsterName_2_6,Kobold Guerrier
+332,MonsterName_2_7,Kobold Magicien
+333,MonsterName_2_8,Guerrier Kobold
+334,MonsterName_2_9,Guerrier Kobold
+335,MonsterName_2_10,Chevalier Kobold
+336,MonsterName_2_11,Kobold Berserker
+337,MonsterName_2_12,Ancien Kobold
+338,MonsterName_3_1,Souche d'arbre
+339,MonsterName_3_2,Champignon vénéneux
+340,MonsterName_3_3,Loup vert
+341,MonsterName_3_4,Insectes
+342,MonsterName_3_5,Esprit de la jungle
+343,MonsterName_3_6,Guerrier de la jungle
+344,MonsterName_3_7,Elfe
+345,MonsterName_3_8,Géant aux yeux de pierre
+346,MonsterName_3_9,Cerf demi-homme
+347,MonsterName_3_10,Fleur de pierre
+348,MonsterName_3_11,Voleur de la jungle
+349,MonsterName_3_12,Chef de la jungle
+350,MonsterName_4_1,Coccinelle mutante
+351,MonsterName_4_2,Œil de chair
+352,MonsterName_4_3,Œil d'os
+353,MonsterName_4_4,Œil de mort
+354,MonsterName_4_5,Cerveau mutant
+355,MonsterName_4_6,Gros homme mutant
+356,MonsterName_4_7,Œil de tentacule
+357,MonsterName_4_8,Œil de lame
+358,MonsterName_4_9,Oeil de la bouche
+359,MonsterName_4_10,Toucher de tête
+360,MonsterName_4_11,Poignard de sang
+361,MonsterName_4_12,Os des os
+362,MonsterName_5_1,Insecte
+363,MonsterName_5_2,Coccinelle
+364,MonsterName_5_3,Coléoptère à mâchoire géante
+365,MonsterName_5_4,Ver de l'éclatement
+366,MonsterName_5_5,Scorpion explosif
+367,MonsterName_5_6,Chant à queue
+368,MonsterName_5_7,Dent de pied
+369,MonsterName_5_8,Araignée masquée
+370,MonsterName_5_9,Scorpion à queue empoisonnée
+371,MonsterName_5_10,Perce-oreilles
+372,MonsterName_5_11,Mante éclatante
+373,MonsterName_5_12,Punaise dragon
+374,MonsterName_6_1,Grenouille lumineuse aux yeux géants
+375,MonsterName_6_2,Archer à bec d'oiseau
+376,MonsterName_6_3,Loup des montagnes
+377,MonsterName_6_4,Loup-garou des montagnes
+378,MonsterName_6_5,Guerrier de montagne
+379,MonsterName_6_6,Boucher
+380,MonsterName_6_7,Orque à la hache géante
+381,MonsterName_6_8,Troll
+382,MonsterName_6_9,Loup-garou géant à cornes
+383,MonsterName_6_10,Dragon bestial
+384,MonsterName_6_11,Loup à la hache
+385,MonsterName_6_12,Flèche rouge
+386,MonsterName_7_1,Archer squelette
+387,MonsterName_7_2,Guerrier squelette
+388,MonsterName_7_3,Squelette sorcier
+389,MonsterName_7_4,Guerrier squelette
+390,MonsterName_7_5,Squelette sorcier
+391,MonsterName_7_6,Mage squelette
+392,MonsterName_7_7,Guerrier squelette
+393,MonsterName_7_8,Lanceur de squelette
+394,MonsterName_7_9,Loup squelette
+395,MonsterName_7_10,Chevalier de la mort
+396,MonsterName_7_11,Loup-garou squelette
+397,MonsterName_7_12,Dragon osseux
+398,MonsterName_8_1,Bête de rêve
+399,MonsterName_8_2,Hallebarde de rêve
+400,MonsterName_8_3,Hirondelle de rêve
+401,MonsterName_8_4,Esprit de rêve
+402,MonsterName_8_5,Insecte de rêve
+403,MonsterName_8_6,Rêve de toucher
+404,MonsterName_8_7,Rêve de feu
+405,MonsterName_8_8,Rêve Plume
+406,MonsterName_8_9,Rêve d'épée
+407,MonsterName_8_10,Rêve de crabe
+408,MonsterName_8_11,Rêve de cauchemar
+409,MonsterName_8_12,Rêve d'homme-oiseau
+410,MonsterName_8_13,Rêve de mort Guerrier
+411,MonsterName_8_14,Rêve de langue
+412,MonsterName_8_15,Chevalier du rêve
+413,MonsterName_8_16,Gardien de rêve
+414,MonsterName_8_17,Guerrier des rêves
+415,MonsterName_9_1,Coléoptère de feu
+416,MonsterName_9_2,Soldat du feu
+417,MonsterName_9_3,Bec de feu
+418,MonsterName_9_4,Plume de feu
+419,MonsterName_9_5,Bête à trois têtes
+420,MonsterName_9_6,Flèche de feu
+421,MonsterName_9_7,Vierge de feu
+422,MonsterName_9_8,Bête de feu
+423,MonsterName_9_9,Guerrier de feu
+424,MonsterName_9_10,Gras rouge
+425,MonsterName_9_11,Feu pourri
+426,MonsterName_9_12,Boucher de feu
+427,MonsterName_9_13,Épée géante rouge
+428,MonsterName_9_14,Démon de feu
+429,MonsterName_9_15,Chevalier d'os de feu
+430,MonsterName_9_16,Tête de feu
+431,MonsterName_9_17,Esprit de feu
+432,TutorialStep_1,"Bienvenue sur {0}, je suis votre instructeur et je vais vous apprendre les règles de base de la survie en donjon, alors si vous êtes prêts, commençons !"
+433,TutorialStep_2,"Tout d'abord, vous êtes dans le coin supérieur gauche du tableau. Oui, c'est vous."
+434,TutorialStep_3,Votre objectif est de vous déplacer jusqu'au coin inférieur droit du 50e niveau. Le niveau actuel est affiché en haut à droite de l'écran.
+435,TutorialStep_4,"Vous pouvez vous déplacer en utilisant les touches fléchées vers la droite, vers le bas, D et S de votre clavier ou en cliquant sur la carte du côté droit ou du côté bas du personnage du héros à l'aide de votre souris."
+436,TutorialStep_5,Vous pouvez vous déplacer à l'aide du joystick gauche de la manette ou des touches transversales.
+437,TutorialStep_6,Faites maintenant votre premier pas vers le bas
+438,TutorialStep_7,Félicitations pour votre premier pas !
+439,TutorialStep_8,"Chaque mouvement interagit avec la carte dans la position cible, placer la souris sur la carte affichera la description de la carte, voir maintenant la carte du côté droit du héros."
+440,TutorialStep_9,"Chaque mouvement interagit avec la carte ciblée, appuyez sur XX pour ouvrir la vue de la carte, changez de carte avec les touches transversales, appuyez à nouveau sur XX pour quitter la vue [WordCard], voyez maintenant la carte de droite du héros."
+441,TutorialStep_10,Déplacez-vous vers la droite pour tuer l'ennemi
+442,TutorialStep_11,"Le combat de tout à l'heure a endommagé votre santé, placez la souris en haut à gauche de l'écran pour afficher la description des attributs du héros, voici une description détaillée du rôle des différents attributs."
+443,TutorialStep_12,"Le combat vient d'endommager votre santé, appuyez sur la touche Y pour ouvrir la vue des attributs, voici une description détaillée du rôle des différents attributs, utilisez les croix directionnelles pour changer d'attribut, appuyez à nouveau sur la touche Y pour quitter la vue des attributs, vous pouvez voir d'autres attributs."
+444,TutorialStep_13,"Bien sûr, vous pouvez aussi voir d'autres attributs."
+445,TutorialStep_14,"Il y a une carte de potion sur votre côté droit, la potion peut récupérer la santé, maintenant déplacez-vous vers la droite pour gagner de la santé"
+446,TutorialStep_15,"La santé est limitée à un maximum, renforcez la défense en gagnant de l'armure supplémentaire après que la santé ait atteint son maximum, déplacez-vous vers le bas pour gagner de l'armure."
+447,TutorialStep_16,"Il y a une carte artefact sur votre côté inférieur, regardez la description de cet artefact, il semble très puissant et coûte 6 pièces à acheter, malheureusement vous n'avez que 5 pièces"
+448,TutorialStep_17,"Il se trouve qu'il y a une carte pièce avec une valeur faciale de 1 sur votre droite, pillez maintenant cette carte"
+449,TutorialStep_18,Descendez pour acheter cet artefact
+450,TutorialStep_19,"Les artefacts sont placés dans le coin inférieur gauche de votre écran, qui peut contenir jusqu'à 9 artefacts, chacun pouvant être empilé."
+451,TutorialStep_20,Placez votre souris sur l'artefact que vous venez d'acheter pour afficher les instructions.
+452,TutorialStep_21,"Appuyez sur A pour ouvrir la vue du sac à dos et voir les différents artefacts que vous possédez déjà, alternez les attributs avec les croix directionnelles, et appuyez à nouveau sur A pour quitter la vue."
+453,TutorialStep_22,"Après toutes ces étapes, vous avez peut-être remarqué que les flèches de la zone en surbrillance changent à chaque fois que vous vous déplacez !"
+454,TutorialStep_23,"C'est ici que vous affichez les compétences que vous possédez, vous pouvez avoir jusqu'à 5 compétences, placez votre souris sur les icônes dans la zone en surbrillance pour voir la description."
+455,TutorialStep_24,"Les compétences se rechargent en se déplaçant correctement et se déclenchent automatiquement lorsqu'elles sont pleines. Si vous vous déplacez dans la mauvaise direction, la charge s'efface généralement."
+456,TutorialStep_25,Il se trouve que votre compétence est sur le point d'être complètement rechargée. Déplacez-vous vers la droite pour déclencher votre compétence !
+457,TutorialStep_26,"Votre puissante compétence a infligé beaucoup de dégâts à l'ennemi le plus proche, donnez-lui maintenant un coup fatal."
+458,TutorialStep_27,"Il y a une carte de buff sur votre droite qui vous accordera temporairement des capacités supplémentaires, vérifiez la description de cette carte"
+459,TutorialStep_28,Déplacez-vous vers la droite pour obtenir ce buff.
+460,TutorialStep_29,"Il y a une carte de potion sur votre côté inférieur pour récupérer de la santé, qui n'a aucun effet lorsque vous êtes en pleine santé, mais lorsque vous êtes en possession d'une exosquelette buff, la santé débordante est convertie en armure"
+461,TutorialStep_30,Descendez pour piller la potion et la convertir en armure !
+462,TutorialStep_31,"Il y a un escalier sur votre côté inférieur qui vous mènera à l'étage suivant, passez-le pour marquer la fin de mon tutoriel et vous serez seul pour le reste du chemin. Il y a encore bien d'autres mystères à découvrir, alors allez-y, ne vous retournez jamais, et bonne chance, guerrier !"
+463,ClickContinue,Cliquez pour continuer
+464,ReleaseOnly,Version release uniquement
+465,AddWishlistText,Ajouter à la liste de souhaits sur Steam
+466,ArtifactText,Artefact
+467,SkillText,Compétence
+468,RankNoBody,Vide et vide
+469,TodayRank,Classement du jour
+470,CostNum,Coût:{0}
+471,CardNameRefresh,Montre de poche
+472,CardDescRefresh,Retour au début
+473,CardNameBousStair,Entrée secrète
+474,CardDescBousStair,Mène plus profondément
+475,CardNameBousCamp,Camping secret
+476,CardDescBousCamp,Repos dans le camping
+477,GameBousCamp,Camping secret
+478,CardNameBousFinal,La ligne d'arrivée secrète
+479,CardDescBousFinal,Un accomplissement caché si vous ne l'avez pas encore débloqué.
+480,DuringNum,Pendant:{0}
+481,CompleteStageTwoTip,Terminez {0} pour débloquer
+482,UnlockHeroDesc,Héros débloqués
+483,HeroDesc_1,Bon au combat de mêlée
+484,HeroDesc_2,Un forgeron doué pour la forge
+485,HeroDesc_3,Un cuisinier qui adore cuisiner
+486,HeroDesc_4,Un expert en magie
+487,HeroDesc_5,Un profane
+488,HeroDesc_6,Un alchimiste mystérieux
+489,UnlockHeroStage,Trouvez ce héros à {0}
+490,UnlockHeroHP,Débloqué quand la santé atteint {0}
+491,UnlockHeroArmor,Débloqué quand l'armure atteint {0}
+492,UnlockHeroCoin,Débloqué à {0} pièces
+493,Thanks,Gratitude 
+494,GameName,Avancer Courageusement

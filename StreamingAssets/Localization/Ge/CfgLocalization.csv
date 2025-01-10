@@ -1,0 +1,483 @@
+﻿Id,key,text
+1,English,English
+2,Chinese,中文
+3,Russian,русский язык
+4,French,Français
+5,German,Deutsch
+6,Portuguese,Português
+7,Spanish,Español
+8,Japanese,日本語
+9,Italian,Italiano
+10,Continue,Weiter
+11,NewGame,Neues Spiel
+12,Setting,Einstellung
+13,Exit,Beenden
+14,FullScreen,Vollbild
+15,Windows,Fenster
+16,Fullscreen,Vollbild
+17,Resolution,Auflösung
+18,Language,Sprache
+19,Sound,Ton
+20,Music,Musik
+21,SelectStageTip,Kerker auswählen
+22,Warrior,Krieger
+23,Blacksmith,Schmied
+24,Priest,Koch
+25,Magician,Magier
+26,Scholar,Gelehrter
+27,Alchemist,Alchemist
+28,HeavyAttack,Schwere Attacke
+29,Hack,Hack
+30,Repair,Reparieren
+31,Substitution,Auswechseln
+32,Accomplishment,Errungenschaften
+33,Grow,Wachsen
+34,Transposition,Umsetzen
+35,MagicShuffle,Mischen
+36,Research,Forschung
+37,Bargaining,Verhandeln
+38,Reconstruction,Wiederaufbau
+39,Alchemy,Alchemie
+40,Deterrence,Abschreckung
+41,FlashKilling,Blitz-Tötung
+42,Treasure,Schätze
+43,Profit,Gewinn
+44,Strengthen,Verstärken
+45,SteelPlate,Stahlplatte
+46,Selected,Ausgewählte
+47,Brewing,Brauen
+48,LightningStrike,Blitzschlag
+49,EatSoul,Seele fressen
+50,Regenerate,Regenerieren
+51,Patch,Flicken
+52,StealArmor,Rüstung stehlen
+53,StealingMedicine,Medizin stehlen
+54,Breakthrough,Durchbruch
+55,Sweeping,Fegen
+56,Smoking,Rauchen
+57,Confuse,Verwirren
+58,Sacrifice,Opfern
+59,Casting,Gießen
+60,Recovery,Wiederherstellung
+61,Lick,Lecken
+62,Shanggong,Shanggong
+63,Change,Ändern
+64,Marching Bed,Bier vom Fass
+65,Crossbow Arrow,Armbrust
+66,Saddle,Schulter
+67,Stimulants,Herz-Rüstung
+68,Anvil,Amboss
+69,Bellows,Eisenhammer
+70,Knee Pads,Spring Life Stiefel
+71,Tent,Feldkessel
+72,Catalyzer,Katalysator
+73,Crystal,Magischer Kristall
+74,Note,Tinte
+75,Stunt Doll,Stehende Puppe
+76,Biography of the Gods,Geschichte der Götter
+77,Deity Statue,Gebets-Halskette
+78,Evolutionism,Wissenschaftliche Theorie
+79,Alchemy Handbook,Alchemie-Handbuch
+80,Conversion Potion,Verwandlungstrank
+81,Alchemy Formula,Alchemie-Rezepte
+82,Blood Bag,Kaffee
+83,Charge,Zauberschwert
+84,Bandage,Medizinisches Handbuch
+85,Needle and Thread,Nadel- und Fadenset
+86,Rum,Gesundheitskristall
+87,Quiver,Stab der flammenden Sonne
+88,Long Boots,Genesungsring
+89,Kettle,Wasserbecher
+90,Grenade,Phantom-Armbrust
+91,Hand Cocoon,Lederhandschuhe
+92,Pistol,Eisbogen
+93,Spear,Lanze zu Pferd
+94,Horseshoe Iron,Ladungsschild
+95,Glass,Gold-Kelch
+96,poison,Gift
+97,Cape,Goldmantel
+98,Anti Armor,Dämonen Schulter Rüstung
+99,Golden Beetle,Springwood Schulter Rüstung
+100,Heart,Herz des Drachen
+101,Animal Skin,Gold-Besteck
+102,Cooking Pot,Verzauberter Hammer
+103,Order Form,Orden
+104,Knapsack,Alte Lampe
+105,Cake,Militärische Flagge
+106,Glove,Handschuhe eines Diebes
+107,Suncha,Zauberschwert
+108,Nut,Bunte Steine
+109,Beer,Drachenblume
+110,Wallet,Geldbeutel
+111,Mushroom,Sporen
+112,Refined Iron,Meteoriten-Eisen
+113,Treasure Chest,Goldtrank
+114,Bomb,Bombengranate
+115,Newborn,Neugeborenes
+116,Trophy Box,Gott-Tag-Kiste
+117,Brainwashing,Gehirnwäsche
+118,Disperse,Dispersion
+119,Obliterate,Auslöschen
+130,Empty,
+131,DmgNear,Fügt dem nächstgelegenen Feind {0} Schaden zu
+132,DmgFar,Verursacht {0} Schaden am entferntesten Feind
+133,DmgAll,Verursacht {0} Schaden an allen Feinden
+134,DmgBattle,Verursacht {0} Schaden am Zielgegner
+135,DmgRandom,Verursacht {0} Schaden an einem zufälligen Feind
+136,DmgRandomByOutValue,"Fügt einem zufälligen Feind Schaden zu, wobei für jede ausgelöste Fähigkeit {0} Schaden hinzugefügt wird."
+137,DmgRightLine,Verursacht {0} Schaden an den Feinden in der eigenen Reihe
+138,DmgDownLine,Verursacht {0} Schaden an den Gegnern in der Sie-Spalte
+139,DmgRightDownLine,Verursacht {0} Schaden an den Feinden in der you-Reihe oder -Spalte
+140,DmgRight,Verursache {0} Schaden an dem Feind auf deiner rechten Seite
+141,DmgDown,Verursache {0} Schaden an dem Feind auf deiner unteren Seite
+142,AddAllArmor,Alle Rüstungskarten +{0}
+143,AddRandomArmor,Zufällige Rüstungskarte +{0}
+144,AddAllHP,Alle Zaubertrankkarten +{0}
+145,AddRandomHP,Zufällige Zaubertrankkarte +{0}
+146,AddAllCoin,Alle Münzen-Karten +{0}
+147,AddRandomCoin,Zufällige Münzen-Karte +{0}
+148,LowPrice,Artefaktkarten Preissenkung {0}
+149,GetHP,Wiederherstellung von {0} Gesundheit
+150,GetHPMax,Gesundheit Maximum +{0}
+151,GetArmor,Gewinnen Sie {0} Rüstungen
+152,GetCoin,Gewinnen Sie {0} Münzen
+153,GetTrophy,Erhalte {0} Göttermarke
+154,RecoverAll,Alle Gesundheit wiederherstellen
+155,SwitchHPToArmor,Behalte 1 Gesundheit und wandle den Rest in Rüstungen um
+156,SwitchRightDown,Vertausche die Kartenpositionen auf der rechten Seite mit der unteren Seite
+157,Shuffle,Kartenpositionen auf dem Schachbrett zerstören
+158,TransfomRandom,Eine Karte umwandeln
+161,StoleAllArmor,Stehle {0} Rüstungen von jeder Rüstungskarte
+162,StoleAllHP,Stiehl {0} Gesundheit von jeder Trankkarte
+163,StoleAllCoin,Stehle {0} Münzen von jeder Münzenkarte
+164,StoleAllDmg,Ziehe {0} Gesundheit von jeder Feindkarte ab
+165,StoleRightLine,Ziehe {0} Gesundheit von jeder gegnerischen Karte in deiner Reihe
+166,StoleDownLine,Ziehe {0} Gesundheit von jeder gegnerischen Karte in der eigenen Spalte
+167,StoleRoundArmor,Ziehe {0} Rüstungen von den nahen Rüstungskarten
+168,StoleRoundHP,Ziehe {0} Gesundheit von den nahen Gesundheitskarten
+169,StoleRoundCoin,Stiehl {0} Münzen von den nahen Münzen-Karten
+170,StoleRoundDmg,Ziehe {0} Gesundheit von den nahen Trankkarten
+171,LootRandomArmor,Plündere eine zufällige Rüstungskarte
+172,LootRandomHP,Plündern Sie eine zufällige Zaubertrankkarte
+173,LootRandomCoin,Plündere eine zufällige Münzen-Karte
+174,FillArtifact,Erhalte eine Stehende Puppe
+175,DmgPlayer,Erleidet {0} Schaden
+176,DmgHP,Erleidet {0} Schaden an Gesundheit
+177,DmgArmor,Erleidet {0} Schaden an Rüstungen
+178,BleedHP,Erleidet {0} Schaden durch Blutung
+179,CleanBuff,Alle Schwabbeln entfernen
+180,CleanMist,Nebel vertreiben
+181,KillRandom,Töte zufällig einen Feind
+182,FloorStart,Zu Beginn eines jeden Stockwerks
+183,CampStart,Beim Betreten des Lagerplatzes
+184,GenCard,Beim Generieren von Karten
+185,Step,Beim Bewegen
+186,StepRight,Wenn du dich nach rechts bewegst
+187,StepDown,Beim Bewegen nach unten
+188,StepChange,Wenn sich die Bewegungsrichtung ändert
+189,StepContinue,Wenn man sich kontinuierlich in eine Richtung bewegt
+190,StepNoArmor,Bewegen ohne Rüstung
+191,StepArmor,Wenn man sich mit Rüstung bewegt
+192,StepFullHP,Wenn man sich mit voller Gesundheit bewegt
+193,EnterBattle,Vor dem Kampf
+194,ExitBattle,Nach dem Kampf
+195,ExitBattleFullHP,Bei voller Gesundheit nach dem Kampf
+196,ExitBattleNoArmor,Wenn ohne Rüstung nach dem Kampf
+197,LootHP,Beim Plündern der Trankkarte
+198,LootArmor,Beim Plündern von Rüstungen
+199,LootCoin,Beim Plündern der Münzen-Karte
+200,TriggerSkill,Wenn eine Fähigkeit ausgelöst wird
+201,BuyArtifact,Beim Kauf eines Artefakts
+202,BreakArmor,Wenn Rüstungen zerbrechen
+203,DeadHurt,Wenn man tödlichen Schaden erleidet
+204,AbilityErrorFix,"Bei falschem Tempo der Fertigkeit wird der Angriff zurückgezogen, anstatt zu klären"
+205,AbilityEscap,"Wenn du fatalen Schaden erleidest, verbrauche eine stehende Puppe und gehe aus dem Weg"
+206,AbilityAppendage,"Verringert Kampfschaden um {0}, wenn Schwabbel getragen wird"
+207,AbilityBelief,Beim Plündern von Schwabbelkarten erhält der Schwabbel zusätzlich {0} Ausdauer
+208,AbilityAtheism,Wiederherstellung von {0} Gesundheit beim Plündern von Schwabbelkarten
+209,AbilityAlchemy,"Gewinnt die gleiche Menge an Gesundheit, wenn ihr Münzen erhaltet"
+210,AbilityTransform,Hundemarke und Münze können bei Bedarf Schaden abwehren
+211,AbilityChemistry,"Wenn Sie eine Fertigkeit auslösen, erhalten Sie {0} Hundemarken"
+212,BuffRecycle,Wiederverwerten
+213,BuffGoldBody,Gold Körper
+214,BuffExoskeleton,Exoskelett
+215,BuffRage,Berserker
+216,BuffGreedy,Gier
+217,BuffDispassion,Beruhigen
+218,BuffDescRecycle,Gewonnene Hundemarke wird in Rüstung umgewandelt
+219,BuffDescGoldBody,Gewonnene Münzen werden in Gesundheit Maximum umgewandelt
+220,BuffDescExoskeleton,Gewonnene Gesundheit wird in Rüstung umgewandelt
+221,BuffDescRage,"Erlittener Schaden wird halbiert, gewonnene Ressourcen werden halbiert."
+222,BuffDescGreedy,Erlittener Kampfschaden wird verdoppelt und gewonnene Münzen werden verdoppelt.
+223,BuffDescDispassion,Kein Zugang zu anderen Schwabbeln
+224,PropBomb,Bombe
+225,PropNewLife,Neugeborenes
+226,PropTrophyBox,Gott-Tag-Box
+227,ProPurify,Gehirnwäsche
+228,PropDispel,Vertreiben
+229,PropKill,Auslöschen
+230,BossAddDmg,Schaden erhöhen {0}
+231,BossSubDmg,Verringern {0} Schaden
+232,StageWindPlain,Wind-Ebene
+233,StageSunsetJungle,Dschungel im Sonnenuntergang
+234,StagePrimitiveforests,Primitive Wälder
+235,StageScarletMountain,Scharlachroter Berg
+236,StageMistySwamp,Nebel-Sumpf
+237,StageMoonCanyon,Mondschlucht
+238,StageTheDeath,Das Land des Todes
+239,StageMirageRuins,Trugbild-Ruinen
+240,StageLavaPurgatory,Lava-Fegefeuer
+241,StageEndlessPurgatory,Endloses Inferno
+242,StageFloorIndex,Etage {0}
+243,UIContinue,Weiter
+244,UIStartGame,Neues Spiel
+245,UITutorial,Anleitung
+246,UIGallery,Galerie
+247,UISetting,Einstellung
+248,UICredits,Impressum
+249,UIExit,Beenden
+250,UIBack,Zurück
+251,UIBattle,Kämpfen
+252,UIChallenge,Herausforderung
+253,UIVictory,SIEG
+254,UIFail,MISSERFOLG
+255,UIReplayWinTip,Nochmal spielen und vielleicht gewinnen
+256,UIReplayTip,Willst du noch einmal spielen?
+257,UIMainMenu,Menü
+258,UIReplay,Erneut spielen
+259,UIUnlockText,Freigespielt {0}
+260,UIUnlockAll,"Alle Phasen abgeschlossen, bleib dran für mehr!"
+261,UINormalMode,Klassisches Spiel
+262,UIChallengeMode,Unendliches Inferno 
+263,UINameHp,Gesundheit
+264,UINameArmor,Rüstung
+265,UINameCoin,Münze
+266,UINameTropyh,Hundemarke
+267,UITipHp,"Achte darauf, dass sie immer größer als 0 ist, sonst wirst du sterben"
+268,UITipArmor,Schützt deinen Körper vor Schaden
+269,UITipCoin,"Hauptsächlich verwendet, um Artefakte zu kaufen"
+270,UITipTrophy,"Erhalten durch das Töten von Gegnern, zum Erlernen von Fertigkeiten auf dem Lagerplatz"
+271,GameCamp,Lagerplatz
+272,CardNameMist,Nebel
+273,CardDescMist,Der Nebel versperrt die Sicht. Komm näher
+274,CardNameRandom,Visionen.
+275,CardDescRandom,"Du weißt erst, was es wirklich ist, wenn du es betrittst"
+276,CardDmgText,Verursacht {0} schaden bei dir
+277,CardNameCoin,Münze
+278,CardDescCoin,Gewinnen Sie {0} Münzen
+279,CardNameArmor,Rüstungen
+280,CardDescArmor,Erhalte {0} Rüstungen
+281,CardNameHP,Gold Wunden Medizin
+282,CardDescHP,Wiederherstellung von {0} Gesundheit
+283,CardNameStair,Eingang
+284,CardDescStair,Führt tiefer
+285,CardNameDoor,Tür
+286,CardDescDoor,Türen werden zum Betreten benutzt
+287,CardNameKey,Schlüssel
+288,CardDescKey,Öffnet eine Tür
+289,CardNameLadder,Felsen
+290,CardDescLadderRight,"Betretet sie von links, sonst könnt ihr verletzt werden"
+291,CardDescLadderDown,"Betretet sie von oben, sonst könntet ihr euch verletzen"
+292,CardNameCamp,Zeltplatz
+293,CardDescCamp,Ruhen Sie sich auf dem Zeltplatz aus.
+294,CardNameFinal,Die Ziellinie
+295,CardDescFinal,Endlich sind wir da
+296,CardNameThief,Feige Diebe
+297,CardDescThief,"Versuchen immer, einem Passanten etwas zu stehlen."
+298,CardNameRobber,Räuber.
+299,CardDescRobber,Zahle {0} Münzen oder erleide den gleichen Schaden
+300,CardNameCollect,Gott-Tag-Räuber
+301,CardDescCollect,Zahle {0} Göttermarken oder erleide den gleichen Schaden
+302,DeveloperNoWrite,Der Autor hat es vergessen.
+303,DeveloperNoWriteDesc,Sag es dem Autor jetzt.
+304,StageWindPlainKey,"Verwende Schwabbeln, um dich zu stärken"
+305,StageSunsetJungleKey,Schwabbeln sind ein zweischneidiges Schwert. Setze sie mit Bedacht ein.
+306,StagePrimitiveforestsKey,"Die verschiedenen Requisiten, die überall verstreut sind, können von Nutzen sein."
+307,StageScarletMountainKey,"Die Klippen müssen aus einer bestimmten Richtung betreten werden, sonst kannst du fallen und dich verletzen."
+308,StageMistySwampKey,"Der Nebel bedeckt einige Bereiche, also geh näher ran und sieh dich um."
+309,StageMoonCanyonKey,"Diese Diebe tun niemandem etwas, sie versuchen immer, jeden zu bestehlen, der vorbeikommt."
+310,StageTheDeathKey,"Wenn du kein Geld hast, werden sie dir in den Hintern treten."
+311,StageMirageRuinsKey,Deine Feigheit ist mein Mut.
+312,StageLavaPurgatoryKey,Die Feuer der Hölle verbrennen jeden deiner Schritte.
+313,StageEndlessPurgatoryKey,"Gib dein Bestes, auch wenn kein Ende in Sicht ist."
+314,MonsterName_1_1,Schwarze gehörnte Ziege
+315,MonsterName_1_2,Kuh
+316,MonsterName_1_3,Wildschwein
+317,MonsterName_1_4,Wolf
+318,MonsterName_1_5,Teufelshunde
+319,MonsterName_1_6,Jagdhund
+320,MonsterName_1_7,Dickhornhirsch
+321,MonsterName_1_8,Säbelzahntiger
+322,MonsterName_1_9,Vajra
+323,MonsterName_1_10,Braunbär
+324,MonsterName_1_11,Mammut
+325,MonsterName_1_12,Greif
+326,MonsterName_2_1,Bergmann
+327,MonsterName_2_2,Kobold-Skelett
+328,MonsterName_2_3,Kobold Bogenschütze
+329,MonsterName_2_4,Dieb
+330,MonsterName_2_5,Kobold-Magier
+331,MonsterName_2_6,Kobold-Krieger
+332,MonsterName_2_7,Kobold-Zauberer
+333,MonsterName_2_8,Kobold-Krieger
+334,MonsterName_2_9,Kobold-Krieger
+335,MonsterName_2_10,Kobold-Ritter
+336,MonsterName_2_11,Kobold Berserker
+337,MonsterName_2_12,Uralter Kobold
+338,MonsterName_3_1,Baumstumpf
+339,MonsterName_3_2,Giftiger Pilz
+340,MonsterName_3_3,Grüner Wolf
+341,MonsterName_3_4,Insekten
+342,MonsterName_3_5,Dschungel-Geist
+343,MonsterName_3_6,Dschungel-Krieger
+344,MonsterName_3_7,Elfe
+345,MonsterName_3_8,Steinäugiger Riese
+346,MonsterName_3_9,Halbmensch-Hirsch
+347,MonsterName_3_10,Steinblume
+348,MonsterName_3_11,Dschungel-Dieb
+349,MonsterName_3_12,Dschungel-Häuptling
+350,MonsterName_4_1,Mutierter Käfer
+351,MonsterName_4_2,Fleischauge
+352,MonsterName_4_3,Knochenauge
+353,MonsterName_4_4,Auge des Todes
+354,MonsterName_4_5,Mutantengehirn
+355,MonsterName_4_6,Mutant Fetter Mann
+356,MonsterName_4_7,Tentakel-Auge
+357,MonsterName_4_8,Klingen-Auge
+358,MonsterName_4_9,Maul-Auge
+359,MonsterName_4_10,Kopf Berührung
+360,MonsterName_4_11,Blutdolch
+361,MonsterName_4_12,Knochen der Knochen
+362,MonsterName_5_1,Käfer
+363,MonsterName_5_2,Käfer
+364,MonsterName_5_3,Riesenkiefer-Käfer
+365,MonsterName_5_4,Platzender Wurm
+366,MonsterName_5_5,Explodierender Skorpion
+367,MonsterName_5_6,Schwanzgesang
+368,MonsterName_5_7,Fußzahn
+369,MonsterName_5_8,Getarnte Spinne
+370,MonsterName_5_9,Giftschwanz-Skorpion
+371,MonsterName_5_10,Ohrwürmer
+372,MonsterName_5_11,Berstende Gottesanbeterin
+373,MonsterName_5_12,Drachenwanzen
+374,MonsterName_6_1,Riesenaugen-Lichtfrosch
+375,MonsterName_6_2,Vogelschnabel-Bogenschütze
+376,MonsterName_6_3,Bergwolf
+377,MonsterName_6_4,Berg-Werwolf
+378,MonsterName_6_5,Berg-Krieger
+379,MonsterName_6_6,Schlachter
+380,MonsterName_6_7,Riesenaxt Ork
+381,MonsterName_6_8,Troll
+382,MonsterName_6_9,Gehörnter Riesen-Werwolf
+383,MonsterName_6_10,Bestie Drache
+384,MonsterName_6_11,Axt-Wolf
+385,MonsterName_6_12,Roter Pfeil
+386,MonsterName_7_1,Skelett Bogenschütze
+387,MonsterName_7_2,Skelett-Krieger
+388,MonsterName_7_3,Skelett-Zauberer
+389,MonsterName_7_4,Skelett-Krieger
+390,MonsterName_7_5,Skelett-Hexer
+391,MonsterName_7_6,Skelett-Magier
+392,MonsterName_7_7,Skelett-Krieger
+393,MonsterName_7_8,Skelett-Werfer
+394,MonsterName_7_9,Skelett-Wolf
+395,MonsterName_7_10,Todesritter
+396,MonsterName_7_11,Skelett-Werwolf
+397,MonsterName_7_12,Knochendrache
+398,MonsterName_8_1,Traum-Bestie
+399,MonsterName_8_2,Traum-Hellebarde
+400,MonsterName_8_3,Traum-Schwalbe
+401,MonsterName_8_4,Traumgeist
+402,MonsterName_8_5,Traum-Insekt
+403,MonsterName_8_6,Traum Berührung
+404,MonsterName_8_7,Traum Feuer
+405,MonsterName_8_8,Traum Feder
+406,MonsterName_8_9,Traum-Schwert
+407,MonsterName_8_10,Traum Krabbe
+408,MonsterName_8_11,Traum Alptraum
+409,MonsterName_8_12,Traum Vogelmann
+410,MonsterName_8_13,Totentraum Krieger
+411,MonsterName_8_14,Zunge Traum
+412,MonsterName_8_15,Traum-Ritter
+413,MonsterName_8_16,Traum Hüter
+414,MonsterName_8_17,Traum-Krieger
+415,MonsterName_9_1,Feuerkäfer
+416,MonsterName_9_2,Feuersoldat
+417,MonsterName_9_3,Feuerschnabel
+418,MonsterName_9_4,Feuerfeder
+419,MonsterName_9_5,Dreiköpfige Bestie
+420,MonsterName_9_6,Feuer-Sense
+421,MonsterName_9_7,Feuermädchen
+422,MonsterName_9_8,Feuer-Bestie
+423,MonsterName_9_9,Feuerkrieger
+424,MonsterName_9_10,Roter Fettsack
+425,MonsterName_9_11,Verrottendes Feuer
+426,MonsterName_9_12,Feuerschlächter
+427,MonsterName_9_13,Rotes Riesenschwert
+428,MonsterName_9_14,Feuer-Dämon
+429,MonsterName_9_15,Feuer-Knochen-Ritter
+430,MonsterName_9_16,Feuerkopf
+431,MonsterName_9_17,Feuergeist
+432,TutorialStep_1,"Willkommen bei {0}, ich bin dein Ausbilder und werde dir die Grundregeln des Überlebens im Dungeon beibringen, wenn du also bereit bist, können wir loslegen!"
+433,TutorialStep_2,"Zuallererst befindest du dich in der oberen linken Ecke des Spielfelds. Ja, das bist du."
+434,TutorialStep_3,"Dein Ziel ist es, in die untere rechte Ecke des 50. Levels zu gelangen, das aktuelle Level wird oben rechts auf dem Bildschirm angezeigt."
+435,TutorialStep_4,"Du kannst dich mit der rechten Pfeiltaste, der Pfeiltaste nach unten, der Taste D und der Taste S auf deiner Tastatur bewegen oder indem du mit der Maus auf die rechte oder untere Karte der Heldenfigur klickst."
+436,TutorialStep_5,Du kannst dich mit dem linken Joystick des Joysticks oder den Kreuztasten bewegen.
+437,TutorialStep_6,Machen Sie jetzt Ihren ersten Schritt nach unten
+438,TutorialStep_7,Herzlichen Glückwunsch zu deinem ersten Schritt!
+439,TutorialStep_8,"Jede Bewegung interagiert mit der Karte in der Zielposition. Wenn du die Maus über die Karte bewegst, wird die Beschreibung der Karte angezeigt, und du kannst dir die rechte Karte des Helden ansehen."
+440,TutorialStep_9,"Jeder Zug interagiert mit der Zielkarte, drücken Sie XX, um die Kartenansicht zu öffnen, wechseln Sie die Karten mit den Kreuztasten, drücken Sie erneut XX, um die [WordCard]-Ansicht zu verlassen, sehen Sie sich nun die rechte Karte des Helden an."
+441,TutorialStep_10,"Gehe nach rechts, um den Feind zu töten"
+442,TutorialStep_11,"Der Kampf hat deine Gesundheit geschädigt, platziere die Maus oben links auf dem Bildschirm, um die Beschreibung der Heldenattribute zu sehen, hier ist eine detaillierte Beschreibung der Rolle der verschiedenen Attribute"
+443,TutorialStep_12,"Der Kampf hat deiner Gesundheit geschadet, drücke die Y-Taste, um die Attribut-Ansicht zu öffnen, hier ist eine detaillierte Beschreibung der Rolle der verschiedenen Attribute, durch die Kreuztasten kannst du die Attribute wechseln, drücke die Y-Taste erneut, um die Attribut-Ansicht zu verlassen, du kannst andere Attribute sehen."
+444,TutorialStep_13,Natürlich können Sie auch andere Attribute anzeigen lassen.
+445,TutorialStep_14,"Auf der rechten Seite befindet sich eine Zaubertrankkarte, die Gesundheit wiederherstellen kann, bewegen Sie sich nun nach rechts, um Gesundheit zu erhalten."
+446,TutorialStep_15,"Gesundheit ist auf ein Maximum begrenzt, verstärke die Verteidigung durch zusätzliche Rüstung, nachdem die Gesundheit das Maximum erreicht hat, bewege dich nun nach unten, um Rüstungen zu erhalten."
+447,TutorialStep_16,"Es gibt eine Artefaktkarte auf deiner unteren Seite, schau dir die Beschreibung dieses Artefakts an, es sieht sehr mächtig aus und kostet 6 Münzen, leider hast du nur 5 Münzen"
+448,TutorialStep_17,"Auf deiner rechten Seite befindet sich eine Münzen-Karte mit einem Nennwert von 1, plündere nun diese Karte"
+449,TutorialStep_18,"Gehe nach unten, um dieses Artefakt zu kaufen"
+450,TutorialStep_19,"Artefakte werden als Rucksack in der linken unteren Ecke deines Bildschirms platziert, der bis zu 9 Artefakte fasst, von denen jedes gestapelt werden kann"
+451,TutorialStep_20,"Bewege den Mauszeiger über das soeben gekaufte Artefakt, um die Anleitung zu sehen"
+452,TutorialStep_21,"Drücke A, um die Ansicht des Rucksacks zu öffnen und die verschiedenen Artefakte zu sehen, die du bereits besitzt, schalte die Attribute mit den Kreuztasten um und drücke erneut A, um die Ansicht zu verlassen."
+453,TutorialStep_22,"Nach all diesen Schritten ist dir vielleicht aufgefallen, dass sich die Pfeile in dem hervorgehobenen Bereich jedes Mal ändern, wenn du dich bewegst!"
+454,TutorialStep_23,"Hier werden die Fertigkeiten angezeigt, die du hast. Du kannst bis zu 5 Fertigkeiten haben, fahre mit der Maus über die Symbole im markierten Bereich, um die Beschreibung zu sehen."
+455,TutorialStep_24,"Die Fertigkeit lädt sich durch die richtige Bewegung auf und wird automatisch ausgelöst, wenn sie voll ist. Wenn du dich in die falsche Richtung bewegst, verschwindet die Ladung normalerweise wieder."
+456,TutorialStep_25,"Zufälligerweise ist deine Fertigkeit gerade voll aufgeladen. Bewege dich jetzt nach rechts, um deine Fertigkeit auszulösen!"
+457,TutorialStep_26,"Deine mächtige Fertigkeit hat dem nächsten Gegner viel Schaden zugefügt, jetzt musst du ihm einen tödlichen Schlag versetzen."
+458,TutorialStep_27,"Auf deiner rechten Seite befindet sich eine Schwabbel-Karte, die dir vorübergehend zusätzliche Fähigkeiten verleiht, sieh dir die Beschreibung dieser Karte an"
+459,TutorialStep_28,"Bewege dich nach rechts, um diesen Schwabbel zu erhalten."
+460,TutorialStep_29,"Auf deiner unteren Seite befindet sich eine Trankkarte zur Wiederherstellung der Gesundheit, die bei voller Gesundheit keine Wirkung hat, aber wenn du im Besitz eines Schwabbel-Exoskeletts bist, wird die überschüssige Gesundheit in Rüstung umgewandelt."
+461,TutorialStep_30,"Geht nach unten, um den Trank zu plündern und ihn in Rüstung umzuwandeln!"
+462,TutorialStep_31,"Auf der unteren Seite befindet sich eine Treppe, die euch in die nächste Etage führt. Geht an ihr vorbei, um das Ende meines Tutorials zu markieren, und ihr seid für den Rest des Weges auf euch allein gestellt. Es gibt noch viele weitere Geheimnisse zu entdecken, also macht euch auf den Weg und schaut nie wieder zurück, und viel Glück, Krieger!"
+463,ClickContinue,Zum Fortfahren anklicken
+464,ReleaseOnly,Nur Release-Version
+465,AddWishlistText,Wunschzettel auf Steam hinzufügen
+466,ArtifactText,Artefakt
+467,SkillText,Fertigkeit
+468,RankNoBody,Leer und leer
+469,TodayRank,Heutige Rangliste
+470,CostNum,Kosten:{0}
+471,CardNameRefresh,Taschenuhr
+472,CardDescRefresh,Zurück zum Anfang
+473,CardNameBousStair,Geheimer Eingang
+474,CardDescBousStair,Führt tiefer
+475,CardNameBousCamp,Geheimes Zeltlager
+476,CardDescBousCamp,Rast auf dem Zeltplatz
+477,GameBousCamp,Geheimes Zeltlager
+478,CardNameBousFinal,Die geheime Ziellinie
+479,CardDescBousFinal,"Eine versteckte Errungenschaft, wenn du sie noch nicht freigeschaltet hast"
+480,DuringNum,Während:{0}
+481,CompleteStageTwoTip,Beenden Sie {0} zum Freischalten
+482,UnlockHeroDesc,Freigespielte Helden
+483,HeroDesc_1,Gut im Nahkampf
+484,HeroDesc_2,"Ein Schmied, der geschickt im Schmieden ist"
+485,HeroDesc_3,"Ein Koch, der gerne kocht"
+486,HeroDesc_4,Ein Experte in allen Arten von Magie
+487,HeroDesc_5,Ein Laie
+488,HeroDesc_6,Ein geheimnisvoller Alchemist
+489,UnlockHeroStage,Finde diesen Helden bei {0}
+490,UnlockHeroHP,"Wird freigeschaltet, wenn Helm {0} erreicht"
+491,UnlockHeroArmor,"Wird freigeschaltet, wenn Rüstungen {0} erreichen"
+492,UnlockHeroCoin,Freigespielt bei {0} Münzen
+493,Thanks,Dankbarkeit 
+494,GameName,Vorwärts Mutig
